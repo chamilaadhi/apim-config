@@ -3,7 +3,7 @@
 Add following to /etc/hosts
 
 127.0.0.1 mysql-rdbms
-127.0.0.1 analytics.apim.com
+127.0.0.1 analytics.apim.com\n
 127.0.0.1 publisher.apim.com                    
 127.0.0.1 sandbox.gw.apim.com                    
 127.0.0.1 prod.gw.apim.com                       
